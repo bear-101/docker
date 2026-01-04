@@ -1,5 +1,5 @@
 import os
-
+# This is a simple calculator program that computes the Fibonacci sequence up to a given number n.
 def fibonacci(n):
 	sequence = []
 	a, b = 0, 1
